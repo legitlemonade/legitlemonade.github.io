@@ -1,3 +1,4 @@
+git clone https://github.com/username/username.github.io
 <!doctype html>
 <html>
 <head>
