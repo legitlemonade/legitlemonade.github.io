@@ -1,1 +1,0 @@
-# legitlemonade.github.io unblocked shell shockers for Chromebooks. Simply download the file, open the zip, and click on the HTML. Im still working on this so i will probably unblock it before friday.
